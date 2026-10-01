@@ -5,12 +5,21 @@
   "source_worktree_status": [],
   "repository": "ui-service.layout",
   "files_sha256": {
-    ".github/workflows/verify.yml": "b737a9f83062bdb3437455e7abab0362ee806c4663fe80af564ea77a353765b3",
+    ".github/workflows/release.yml": "389609993160480e4ff9a918e5ce91c2967207b3120cff633902d9c657e30b39",
+    ".gitignore": "eb23201bf8045bae97d6f115436fbeceb52a080b218644bf1b15f92b9da8dd4e",
     "CONTEXT.md": "81375ef81632101bbc5f50de1204bc41f9b14afe152a16108941ae93a6b3b5d4",
-    "LICENSING.md": "0bddd694c9d8b704519bf4b02a97cb8e0896867f1e102c3b6849c9088eb1f830",
-    "README.md": "5c9ad80eebb4fef1e56a6a4d130e24e89281afcb15846fa0f82dd125231123bb",
-    "package.json": "0bd2bf376d2e9c932e7deae1d5ba66224fdb7c14270b9c0f41ca30b7163e3691",
-    "scripts/verify.mjs": "303e30cdbef63f1f66ad256ad1ae3a2d4e65d3247f3628931013dde516c35f47",
-    "src/ui-plugins/layout.js": "c07cc2b45e3912a658ed0660797bff60f1aa4d64a1ae9dcfc838350cb41ddbb9"
-  }
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "LICENSING.md": "d4fd2edc5d99638f92d514cfa5c210d893e65f109a3640717eec4978ad2f849b",
+    "NOTICE": "85ec5995d62efa18181d74e3640bae377750c618b28c84cb8fc4cbf197d64d10",
+    "NOTICE-EVIDENCE.json": "43898f29e9f2857b520fca7cecbf4ed8c0fa545386535012a829e5d9a69e37c0",
+    "PUBLISHING.md": "bd53609e046de8dffc3d281d2bff686cdd58439bf853617b0c2fde0478e63458",
+    "README.md": "6c9b0888aa5b7479f1c8a0da9abfe534e4f24c87857b11f9559315a75e3bb9c1",
+    "package.json": "79d8c65aa3ceedf5c99c8d1431c73b2db169486f0b89f913a2129c585b0bbb80",
+    "release.json": "a178f457525a990d3ac93832875095b8e062a1fba1cf74b1a3914cf8947bee61",
+    "scripts/release.py": "45e25fd41691c02c8487ac9365cd74e5cb3c4ea8f602005ab764438e25b90be8",
+    "scripts/verify.mjs": "78c49bae0503f67d2e058e2c0eb86c755da47164f54be36d12b778de10df0337",
+    "src/ui-plugins/layout.js": "c07cc2b45e3912a658ed0660797bff60f1aa4d64a1ae9dcfc838350cb41ddbb9",
+    "test/test_release.py": "330586a32413735fdaf28df1071ff8ddd16a7b020fdfa1af92849a277faf80da"
+  },
+  "publication_preparation_source_revision": "ca48dbf190aa66e948a04d2f82a624295b7b6464"
 }
