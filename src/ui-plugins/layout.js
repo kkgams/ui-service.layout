@@ -256,7 +256,6 @@ class Handle extends HTMLElement {
         this.style.top = `${this._y}px`
         this.style.width = `${this._w}px`
         this.style.height = `${this._h}px`
-        this.style.cursor = this._w > this._h ? "row-resize" : "col-resize"
     }
 }
 
