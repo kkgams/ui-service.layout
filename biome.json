@@ -1,0 +1,16 @@
+{
+    "root": true,
+    "files": {
+        "includes": ["src/ui-plugins/layout.js", "biome.json"]
+    },
+    "formatter": {
+        "indentStyle": "space",
+        "indentWidth": 4,
+        "lineWidth": 120
+    },
+    "javascript": {
+        "formatter": {
+            "semicolons": "asNeeded"
+        }
+    }
+}
